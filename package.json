@@ -1,7 +1,28 @@
 {
   "name": "mssql-mcp-server",
   "version": "1.0.0",
+  "description": "A Model Context Protocol (MCP) server for MSSQL Database with username/password authentication support",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greatbody/mcp-mssql-node.git"
+  },
+  "homepage": "https://github.com/greatbody/mcp-mssql-node#readme",
+  "bugs": {
+    "url": "https://github.com/greatbody/mcp-mssql-node/issues"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "mssql",
+    "sql-server",
+    "database",
+    "ai",
+    "claude",
+    "llm"
+  ],
+  "author": "greatbody",
+  "license": "MIT",
   "bin": {
     "mssql-mcp-server": "dist/index.js"
   },

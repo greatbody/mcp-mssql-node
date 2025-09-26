@@ -2,10 +2,35 @@ This repository is based on https://github.com/Azure-Samples/SQL-AI-samples/tree
 
 The original repository does not support username/password authentication, this repository only supports it.
 
-# MSSQL Database MCP  Server
+# MSSQL Database MCP Server
 
 <div align="center">
   <img src="./src/img/logo.png" alt="MSSQL Database MCP server logo" width="400"/>
+
+  <!-- GitHub Stars Chart -->
+  <br>
+  <a href="https://github.com/greatbody/mcp-mssql-node/stargazers">
+    <img src="https://img.shields.io/github/stars/greatbody/mcp-mssql-node?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/greatbody/mcp-mssql-node/network/members">
+    <img src="https://img.shields.io/github/forks/greatbody/mcp-mssql-node?style=social" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/greatbody/mcp-mssql-node/issues">
+    <img src="https://img.shields.io/github/issues/greatbody/mcp-mssql-node" alt="GitHub Issues">
+  </a>
+  <a href="https://github.com/greatbody/mcp-mssql-node/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/greatbody/mcp-mssql-node" alt="License">
+  </a>
+
+  <!-- Star History Chart -->
+  <br><br>
+  <a href="https://star-history.com/#greatbody/mcp-mssql-node&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=greatbody/mcp-mssql-node&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=greatbody/mcp-mssql-node&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=greatbody/mcp-mssql-node&type=Date" />
+    </picture>
+  </a>
 </div>
 
 ## What is this? 🤔
