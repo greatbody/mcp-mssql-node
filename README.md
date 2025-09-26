@@ -24,13 +24,9 @@ The original repository does not support username/password authentication, this 
 
   <!-- Star History Chart -->
   <br><br>
-  <a href="https://star-history.com/#greatbody/mcp-mssql-node&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=greatbody/mcp-mssql-node&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=greatbody/mcp-mssql-node&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=greatbody/mcp-mssql-node&type=Date" />
-    </picture>
-  </a>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=greatbody/mcp-mssql-node&type=Date)](https://www.star-history.com/#greatbody/mcp-mssql-node&Date)
 </div>
 
 ## What is this? 🤔
