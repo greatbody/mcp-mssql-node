@@ -23,8 +23,6 @@ The original repository does not support username/password authentication, this 
   </a>
 
   <!-- Star History Chart -->
-  <br><br>
-## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=greatbody/mcp-mssql-node&type=Date)](https://www.star-history.com/#greatbody/mcp-mssql-node&Date)
 </div>
